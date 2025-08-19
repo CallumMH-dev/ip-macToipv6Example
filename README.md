@@ -25,5 +25,7 @@ add boilerplate:
 
 this is a brief overview of how an ipv6 is created, for the purposes of security, it not only tells you the IPv4 but also the hardware mac address.
 
-however this system does indeed have workarounds such as spoofing your mac and ip, it's quite fun to implement the system.
+however this system does indeed have workarounds such as spoofing your mac and ip.
+
+It's quite fun to implement the system and would recommend it to anyone as a beginner friendly project!
 
